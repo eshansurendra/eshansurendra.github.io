@@ -1,20 +1,25 @@
 ---
 layout: page
-title: Criminal Face Sketcher using Generative AI
+title: Criminal Face Generation Platform Using Stable Diffusion
 description: Developed a Criminal Face Sketch Generator using Generative AI to generate accurate facial sketches and variations for streamlining investigations and forensics. Leveraged tools such as LLMs, PyTorch, Stable Diffusion models, Hugging Face Transformers, and ONNX.
-img: assets/img/gen_ai_thumb.jpg
+img: assets/img/genai/gen_ai_thumb.jpg
 importance: 1
 category: Generative AI
+tags : ['generative-AI', 'pytorch', 'stable-difusion', 'llm']
 related_publications: false
+github: https://github.com/eshansurendra/stable-diffusion-forensic-identification-working
 ---
-
-# Criminal Face Generation Platform Using Stable Diffusion
-
-## Project Overview
 
 ### Project Idea
 
 Traditional forensic face sketch methods can be subjective, inconsistent, and time-consuming. Our project leverages stable diffusion technology to create a more accurate, objective, and efficient tool for law enforcement to generate suspect face sketches.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/genai/top.jpg" title="Top Image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ### Problem Significance
 
@@ -26,7 +31,11 @@ AI face recognition relies on existing databases and can struggle with suspects 
 
 ## Our Solution
 
-![Proposed System](assets/img/Proposed_system_model.png)
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/genai/Proposed_system_model.png" title="Proposed System" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Our solution uses:
 
@@ -42,7 +51,12 @@ Our tool enhances the efficiency and accuracy of criminal investigations, leadin
 
 ## Architecture
 
-![System Architecture](assets/img/System_Architecture.png)
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/genai/System_Architecture.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 - Prompt Generator LLM
 - Image Generator Stable Diffusion Model
