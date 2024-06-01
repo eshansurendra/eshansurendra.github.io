@@ -10,6 +10,9 @@ related_publications: false
 github: https://github.com/eshansurendra/stable-diffusion-forensic-identification-working
 ---
 
+> This project is developed for the IEEE IES Generative AI Challenge- 2024
+> For detailed documentation and source code by Team Decoders, visit our [GitHub Repository](https://github.com/eshansurendra/stable-diffusion-forensic-identification-working).
+
 ### Project Idea
 
 Traditional forensic face sketch methods can be subjective, inconsistent, and time-consuming. Our project leverages stable diffusion technology to create a more accurate, objective, and efficient tool for law enforcement to generate suspect face sketches.
@@ -57,15 +60,7 @@ Our tool enhances the efficiency and accuracy of criminal investigations, leadin
     </div>
 </div>
 
-
 - Prompt Generator LLM
 - Image Generator Stable Diffusion Model
 - Image-to-Image Refiner
-
-## Learn More
-
-For detailed documentation and source code, visit our GitHub repository:
-
-[GitHub Repository](https://github.com/eshansurendra/stable-diffusion-forensic-identification-working)
-
 
