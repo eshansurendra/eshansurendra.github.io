@@ -10,8 +10,8 @@ related_publications: false
 github: https://github.com/eshansurendra/stable-diffusion-forensic-identification-working
 ---
 
-> This project is developed for the IEEE IES Generative AI Challenge- 2024
-> For detailed documentation and source code by Team Decoders, visit our [GitHub Repository](https://github.com/eshansurendra/stable-diffusion-forensic-identification-working).
+> This project is developed for the IEEE IES Generative AI Challenge- 2024 by Team Decoders.
+> For detailed documentation and source code, visit our [GitHub Repository](https://github.com/eshansurendra/stable-diffusion-forensic-identification-working).
 
 ### Project Idea
 
