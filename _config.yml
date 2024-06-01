@@ -100,7 +100,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can reach me through surendrasaje.21@uom.lk.
+  You can reach me through <a href="mailto:surendrasaje.21@uom.lk">surendrasaje.21@uom.lk</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
