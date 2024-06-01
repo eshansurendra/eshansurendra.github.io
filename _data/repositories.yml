@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eshansurendra
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - eshansurendra/SLRC-vision-system
+  - eshansurendra/stable-diffusion-forensic-identification-working
+  - eshansurendra/cell_anomaly_detection_using_autoencoders
+  - eshansurendra/handwritten-digit-classification
+  - eshansurendra/emoji-localization
+  - eshansurendra/Facial-Expression-Recognition-with-Keras
+  - eshansurendra/Smart-MediBox
