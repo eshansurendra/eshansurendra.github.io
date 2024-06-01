@@ -5,7 +5,9 @@ description: Developed an anomaly detection system for cell images using adversa
 img: assets/img/cell-anomaly/thumb.jpeg
 importance: 2
 category: software
-giscus_comments: true
+tags : ['machine-learning', 'tensorflow', 'anomaly-detection', 'keras']
+related_publications: false
+github: https://github.com/eshansurendra/cell_anomaly_detection_using_autoencoders
 ---
 
 The project focuses on detecting anomalies in images using autoencoder neural networks. An autoencoder learns to reconstruct normal images and can classify images as anomalies when the reconstruction error exceeds a certain threshold. The code in this repository implements an autoencoder-based anomaly detection method using TensorFlow.
