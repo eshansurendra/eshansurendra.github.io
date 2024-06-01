@@ -5,7 +5,7 @@ description: Developed an anomaly detection system for cell images using adversa
 img: assets/img/cell-anomaly/thumb.svg
 importance: 2
 category: software
-tags : ['machine-learning', 'tensorflow', 'anomaly-detection', 'keras']
+tags : ['deep learning', 'tensorflow', 'anomaly-detection']
 github: https://github.com/eshansurendra/cell_anomaly_detection_using_autoencoders
 ---
 
