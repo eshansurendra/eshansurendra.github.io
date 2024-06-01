@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Electronics and Telecommunications Engineering Engineering Undergraduate
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a second-year engineering undergraduate at [University of Moratuwa](https://uom.lk/), currently studying at the Department of Electronics and Telecommunications Engineering. With a strong passion for exploring the cutting-edge fields of Deep Learning and Machine Learning, I am dedicated to understanding and applying these technologies to solve real-world problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently in my 4th semester, I am delving into the realms of Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, and TinyML. My goal is to harness the power of these technologies to create innovative solutions that can make a significant impact.
+
+I am committed to working hard and seizing every opportunity that comes my way to further my knowledge and skills in these areas. I look forward to contributing to projects and research that push the boundaries of what's possible with these advanced technologies.
