@@ -20,7 +20,11 @@ The project focuses on detecting anomalies in images using autoencoder neural ne
     </div>
 </div>
 
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cell-anomaly/overview.png" title="Overview Diagram" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 The project addresses a fundamental challenge in anomaly detection using autoencoders, particularly when the training set contains outliers. Continued training of autoencoders tends to raeduce the reconstruction error of outliers, thereby degrading anomaly detection performance. To mitigate this issue, an adversarial autoencoder architecture is employed, which imposes a prior distribution on the latent representation, typically placing anomalies into low likelihood regions. By utilizing the likelihood model, potential anomalies can be identified and rejected during training, resulting in a more robust anomaly detector.
 
