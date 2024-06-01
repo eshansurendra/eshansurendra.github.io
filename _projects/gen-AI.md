@@ -4,7 +4,7 @@ title: Criminal Face Generation Platform Using Stable Diffusion
 description: Developed a Criminal Face Sketch Generator using Generative AI to generate accurate facial sketches and variations for streamlining investigations and forensics. Leveraged tools such as LLMs, PyTorch, Stable Diffusion models, Hugging Face Transformers, and ONNX.
 img: assets/img/genai/gen_ai_thumb.jpg
 importance: 1
-category: Generative AI
+category: software
 tags : ['generative-AI', 'pytorch', 'stable-difusion', 'llm']
 related_publications: false
 github: https://github.com/eshansurendra/stable-diffusion-forensic-identification-working
