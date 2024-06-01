@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+ Selected for Top 30 entries in IEEE IES Generative AI Challenge- 2024
