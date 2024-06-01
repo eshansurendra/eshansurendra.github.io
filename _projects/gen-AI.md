@@ -5,6 +5,6 @@ description: Developed a Criminal Face Sketch Generator using Generative AI to g
 img: assets/img/12.jpg
 importance: 1
 category: generative-AI
-related_publications: flase
+related_publications: false
 ---
 
