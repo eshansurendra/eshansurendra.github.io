@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of software and hardware projects
+description: Discover a collection of software and hardware projects showcasing innovation and creativity.
 nav: true
 nav_order: 3
 display_categories: [software, hardware, other]
