@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collection of software and hardware projects
 nav: true
 nav_order: 3
-display_categories: [Generative AI, work, fun]
+display_categories: [software, hardware, other]
 horizontal: false
 ---
 
