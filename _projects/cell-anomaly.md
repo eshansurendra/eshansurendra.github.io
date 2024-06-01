@@ -46,3 +46,9 @@ The architecture employed in this project leverages a VGG16-based model, modifie
 
 This dual-criterion approach helps in robustly identifying images that do not conform to the learned distribution of 'normal' images, either through significant deviations in their latent space positioning or through poor reconstruction quality.
 
+### Learn More
+
+For detailed documentation and source code, visit below GitHub repository:
+
+[GitHub Repository](https://github.com/eshansurendra/cell_anomaly_detection_using_autoencoders)
+
