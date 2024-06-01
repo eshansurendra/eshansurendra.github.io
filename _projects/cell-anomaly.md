@@ -15,12 +15,6 @@ The project focuses on detecting anomalies in images using autoencoder neural ne
 ### Overview
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cell-anomaly/overview.png" title="Overview Diagram" class="img-fluid rounded z-depth-1 img-782x211" %}
-    </div>
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/cell-anomaly/overview.png" title="Overview Diagram" class="img-fluid rounded z-depth-1" %}
     </div>
