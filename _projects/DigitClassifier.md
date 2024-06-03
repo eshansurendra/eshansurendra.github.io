@@ -10,7 +10,7 @@ related_publications: false
 github: https://github.com/eshansurendra/handwritten-digit-classification
 ---
 
-> For detailed documentation and source code, visit our [GitHub Repository](https://github.com/eshansurendra/handwritten-digit-classification).
+> For detailed documentation and source code, visit this [GitHub Repository](https://github.com/eshansurendra/handwritten-digit-classification).
 
 ## Overview
 
