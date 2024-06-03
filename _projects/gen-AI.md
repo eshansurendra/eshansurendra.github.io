@@ -35,12 +35,6 @@ AI face recognition relies on existing databases and can struggle with suspects 
 ## Our Solution
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/genai/Proposed_system_model.png" title="Proposed System" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/genai/Proposed_system_model.png" title="Proposed System" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -59,12 +53,6 @@ This approach provides higher quality and more diverse sketches than other metho
 Our tool enhances the efficiency and accuracy of criminal investigations, leading to faster suspect identification and improved public trust in law enforcement.
 
 ## Architecture
-
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/genai/System_Architecture.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
-    </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
