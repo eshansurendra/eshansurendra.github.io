@@ -59,7 +59,6 @@ Our tool enhances the efficiency and accuracy of criminal investigations, leadin
         {% include figure.liquid path="assets/img/genai/System_Architecture.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
 
 - Prompt Generator LLM
 - Image Generator Stable Diffusion Model
