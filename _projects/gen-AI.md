@@ -40,6 +40,12 @@ AI face recognition relies on existing databases and can struggle with suspects 
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/genai/Proposed_system_model.png" title="Proposed System" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Our solution uses:
 
 - **Prompt Generator LLM:** Extracts key facial features from descriptions.
