@@ -26,27 +26,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "SLRC branch - Electronic Club",
-      "position": "Committee Member",
-      "url": "https://ent.uom.lk/electronic-club-about/#SLRC-Branch",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Acted as chairperson for Sri Lankan Robotics Challenge 2024",
-      "highlights": []
-    },
-    {
-      "organization": "Sasnaka Sansada Foundation",
-      "location": "",
-      "position": "Technical coordinator - Learnsteer Project",
-      "url": "https://www.sasnaka.org/#/",
-      "startDate": "2021",
-      "endDate": "2023",
-      "summary": "",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "University of Moratuwa, Sri Lanka",
@@ -71,155 +50,177 @@
       "courses": ["Physical science"]
     }
   ],
+  "work": [
+    {
+      "name": "SLRC branch - Electronic Club",
+      "position": "Committee Member",
+      "url": "https://ent.uom.lk/electronic-club-about/#SLRC-Branch",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Acted as chairperson for Sri Lankan Robotics Challenge 2024",
+      "highlights": []
+    },
+    {
+      "organization": "Sasnaka Sansada Foundation",
+      "location": "",
+      "position": "Technical coordinator - Learnsteer Project",
+      "url": "https://www.sasnaka.org/#/",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  
   "certificates": [
     {
       "name": "Computer Vision",
-      "date": "2024-05-01",
+      "date": "May-2024",
       "issuer": "Kaggle",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Intro to Machine Learning",
-      "date": "2024-05-01",
+      "date": "May-2024",
       "issuer": "Kaggle",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
-      "date": "2024-05-01",
+      "date": "May-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Machine Learning Specialization",
-      "date": "2024-05-01",
+      "date": "May-2024",
       "issuer": "DeepLearning.AI",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
-      "date": "2024-05-01",
+      "date": "May-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Generative AI: Introduction and Applications",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "IBM",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Advanced Learning Algorithms",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Basic Image Classification with TensorFlow",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Coursera Project Network",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Calculus for Machine Learning and Data Science",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Facial Expression Recognition with Keras",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Coursera Project Network",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Git and GitHub",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Google",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Linear Algebra for Machine Learning and Data Science",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Microsoft Azure Machine Learning",
-      "date": "2024-02-01",
+      "date": "Feb-2024",
       "issuer": "Microsoft",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Supervised Machine Learning: Regression and Classification",
-      "date": "2024-01-01",
+      "date": "Jan-2024",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Crash Course on Python",
-      "date": "2023-12-01",
+      "date": "Dec-2023",
       "issuer": "Google",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "MATLAB Onramp",
-      "date": "2023-12-01",
+      "date": "Dec-2023",
       "issuer": "MathWorks",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Object Localization with TensorFlow",
-      "date": "2023-12-01",
+      "date": "Dec-2023",
       "issuer": "Coursera Project Network",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Embedded Machine Learning",
-      "date": "2023-09-01",
+      "date": "Sep-2023",
       "issuer": "Coursera",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Robot Operating System",
-      "date": "2023-01-01",
+      "date": "Jan-2023",
       "issuer": "Electronic Club UOM",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Python (Basic)",
-      "date": "2022-08-01",
+      "date": "Aug-2022",
       "issuer": "HackerRank",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Introduction to Programming Using Python",
-      "date": "2022-05-01",
+      "date": "May-2022",
       "issuer": "University of Moratuwa",
       "url": null,
       "icon": "fa-solid fa-location-dot"
     }
-  ],
+  ]
   "publications": [
   ],
   "skills": [
@@ -295,8 +296,8 @@
         "Image-to-image refiner allows for minor adjustments to generated sketches",
         "Enhances forensic identification by generating realistic face sketches from textual descriptions"
       ],
-      "startDate": "2024-02",
-      "endDate": "2024-04",
+      "startDate": "Feb-2024",
+      "endDate": "",
       "url": null
     },
     {
@@ -308,8 +309,8 @@
         "Implemented using TensorFlow for efficient model training and inference",
         "Enables robust anomaly detection in cell images, potentially improving medical diagnostics"
       ],
-      "startDate": "2024-03",
-      "endDate": "2024-03",
+      "startDate": "Mar-2024",
+      "endDate": "Mar-2024",
       "url": null
     },
     {
@@ -321,8 +322,8 @@
         "Evaluated model performance and visualized results for improved understanding",
         "Provided hands-on experience in image classification and model evaluation using TensorFlow"
       ],
-      "startDate": "2024-01",
-      "endDate": "2024-02",
+      "startDate": "Jan-2024",
+      "endDate": "Feb-2024",
       "url": null
     },
     {
@@ -334,8 +335,8 @@
         "Provides adjustable frequency bands for precise audio customization, including Low, Low Mid, Mid, High Mid, and High",
         "Enhances hands-on electronics skills with practical application of analog circuit design"
       ],
-      "startDate": "2023-08",
-      "endDate": "2023-12",
+      "startDate": "Aug-2023",
+      "endDate": "Dec-2023",
       "url": null
     },
     {
@@ -347,21 +348,21 @@
         "Demonstrated problem-solving skills in robot design and development",
         "Provided hands-on experience in robotics and microcontroller programming"
       ],
-      "startDate": "2023-08",
-      "endDate": "2023-12",
+      "startDate": "Aug-2023",
+      "endDate": "Dec-2023",
       "url": null
     },
     {
-      "name": "Automatic Ret retractable Clothesline System",
-      "summary": "Developed an Automatic Ret retractable Clothesline System (ARCS) incorporating Arduino technology, automated rain detection, and remote monitoring through Thingspeak.",
+      "name": "Automatic Retractable Clothesline System",
+      "summary": "Developed an Automatic Retractable Clothesline System (ARCS) incorporating Arduino technology, automated rain detection, and remote monitoring through Thingspeak.",
       "highlights": [
         "Combines Arduino technology with automation for smart clothes drying",
         "Features an automated rain detection system for protecting garments",
         "Utilizes Thingspeak integration for real-time remote monitoring and control",
         "Offers an innovative solution for efficient and intelligent clothes drying"
       ],
-      "startDate": "2023-02",
-      "endDate": "2023-07",
+      "startDate": "Feb-2023",
+      "endDate": "Jul-2023",
       "url": null
     }
   ]
