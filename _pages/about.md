@@ -16,8 +16,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a second-year engineering undergraduate at [University of Moratuwa](https://uom.lk/), currently studying at the Department of Electronics and Telecommunications Engineering. With a strong passion for exploring the cutting-edge fields of Deep Learning and Machine Learning, I am dedicated to understanding and applying these technologies to solve real-world problems.
+I am a second-year engineering undergraduate at [University of Moratuwa](https://uom.lk/), currently studying at the Department of Electronics and Telecommunications Engineering.Currently in my 4th semester, I am interested in the fields Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, and TinyML. With a strong passion for exploring the fields of Deep Learning and Machine Learning, I am dedicated to understanding and applying these technologies to solve real-world problems.
 
-Currently in my 4th semester, I am delving into the realms of Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, and TinyML. My goal is to harness the power of these technologies to create innovative solutions that can make a significant impact.
-
-I am committed to working hard and seizing every opportunity that comes my way to further my knowledge and skills in these areas. I look forward to contributing to projects and research that push the boundaries of what's possible with these advanced technologies.
+Beyond my coursework as an active member of [SLRC Branch of the Electronic Club](https://ent.uom.lk/electronic-club-about/#SLRC-Branch),where I have volunteered on various projects. Specially as a Co-Chair of the [Sri Lankan Robotics Challenge](https://ent.uom.lk/eclub-events/slrc/) I've gained invaluable hands-on experience.
