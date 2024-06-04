@@ -111,7 +111,16 @@ def check_anomaly(img_path):
 
 ### Results
 
-Here below some tested with some cell images
+Here below results indicate the model's effectiveness in recognizing subtle variations in cell morphology associated with anomalies.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cell-anomaly/left_cell.png" title="result image1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cell-anomaly/right_cell.png" title="result image1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 
