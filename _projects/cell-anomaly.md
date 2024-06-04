@@ -31,6 +31,12 @@ The project addresses a fundamental challenge in anomaly detection using autoenc
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cell-anomaly/architecture_up.png" title="architecture Diagram" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 The architecture employed in this project leverages a VGG16-based model, modified for the task of encoding and decoding images for anomaly detection. Here's a breakdown of how the architecture is structured:
 
