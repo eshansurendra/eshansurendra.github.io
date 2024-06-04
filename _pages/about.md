@@ -16,5 +16,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <div style="text-align: justify;">
-I am a second-year engineering undergraduate at <a href="https://uom.lk/">University of Moratuwa</a>, currently studying at the <a href="https://ent.uom.lk/introduction-to-entc/">Department of Electronics and Telecommunications Engineering</a>.Currently in my 4th semester, I am interested in the fields Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, and TinyML. With a strong passion for exploring the fields of Deep Learning and Machine Learning, I am dedicated to understanding and applying these technologies to solve real-world problems.
+I am a second-year engineering undergraduate at <a href="https://uom.lk/">University of Moratuwa</a>, currently studying at the <a href="https://ent.uom.lk/introduction-to-entc/">Department of Electronics and Telecommunications Engineering</a>.Currently in my 4th semester, I am interested in the fields Machine Learning, Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Vision, and TinyML. With a strong passion for exploring the fields of **Deep Learning** and **Computer Vision**, I am dedicated to understanding and applying these technologies to solve real-world problems.
 </div>
