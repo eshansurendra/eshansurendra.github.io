@@ -353,8 +353,8 @@
       "url": null
     },
     {
-      "name": "Automatic Retractable Clothesline System",
-      "summary": "Developed an Automatic Retractable Clothesline System (ARCS) incorporating Arduino technology, automated rain detection, and remote monitoring through Thingspeak.",
+      "name": "Automatic Ret retractable Clothesline System",
+      "summary": "Developed an Automatic Ret retractable Clothesline System (ARCS) incorporating Arduino technology, automated rain detection, and remote monitoring through Thingspeak.",
       "highlights": [
         "Combines Arduino technology with automation for smart clothes drying",
         "Features an automated rain detection system for protecting garments",
