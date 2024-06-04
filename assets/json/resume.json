@@ -1,44 +1,48 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eshan Surendra",
+    "label": "Engineering undergraduate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "surendrasaje.21@uom.lk",
+    "url": "https://eshansurendra.github.io",
+    "summary": "Second year Electronic and Telecommunication Engineering undergraduate at University of Moratuwa",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Galle",
+      "countryCode": "LK",
+      "region": "Southern"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "EshanSurendra",
+        "url": "https://twitter.com/EshanSurendra"
+      },
+      {
+        "network": "Linkedin",
+        "username": "eshansurendra",
+        "url": "www.linkedin.com/in/eshan-surendra"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "SLRC branch - Electronic Club",
+      "position": "Committee Member",
+      "url": "https://ent.uom.lk/electronic-club-about/#SLRC-Branch",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Acted as chairperson for Sri Lankan Robotics Challenge 2024",
+      "highlights": 
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
+      "organization": "Sasnaka Sansada Foundation",
+      "location": "",
+      "position": "Technical coordinator - Learnsteer Project",
+      "url": "https://www.sasnaka.org/#/",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
