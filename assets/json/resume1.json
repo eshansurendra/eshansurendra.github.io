@@ -26,6 +26,9 @@
       }
     ]
   },
+
+  "volunteer": [
+  ],
   "education": [
     {
       "institution": "University of Moratuwa, Sri Lanka",
@@ -70,6 +73,9 @@
       "summary": "",
       "highlights": []
     }
+  ],
+
+  "awards": [
   ],
   
   "certificates": [
