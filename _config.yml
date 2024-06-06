@@ -609,9 +609,9 @@ jsonresume:
   - education
   - work
   - publications
-  - projects
   - certificates
   - skills
   - languages
   - interests
   - references
+  - projects
