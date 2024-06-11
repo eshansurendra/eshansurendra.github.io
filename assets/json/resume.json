@@ -223,35 +223,23 @@
   ],
   "skills": [
     {
-      "name": "Signal processing",
-      "level": "Expert",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Digital Signal Processing",
-        "Filter design",
-        "Fourirer Analysis",
-        "Control system design"
-      ]
-    },
-    {
       "name": "Machine learning",
-      "level": "Novice",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Regression and classification techniques",
-        "Data science",
-        "Exploratory Data Analysis"
+        "Supervised Machine learning",
+        "Regression and classification",
+        "Unsupervised Machine learning",
       ]
     },
     {
       "name": "Deep learning",
-      "level": "Novice",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Computer Vision",
-        "Speech Recognition",
-        "Pattern Recognition",
-        "Image processing"
+        " ",
+        " ",
+        " "
       ]
     },
     {
@@ -260,36 +248,27 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Nano 33 BLE Sense",
+        "edgeimpulse",
         "TinyML",
         "Raspberry Pi",
-        "Image processing"
+        "Image processing",
+        "arduino"
       ]
     },
     {
       "name": "PCB Design",
-      "level": "Novice",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Altium Designer",
-        "KiCAD"
-      ]
-    },
-    {
-      "name": "Scientific Computing",
-      "level": "Expert",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MATLAB",
-        "Julia",
-        "NumPy",
-        "Sci-kit Learn"
+        "EasyEDA"
       ]
     }
   ],
   "languages": [
     {
       "language": "Sinhala",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
@@ -299,25 +278,87 @@
     }
   ],
   "interests": [
-    {
-      "name": "Deep learning",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computer vision",
-        "Medical image processing"
-      ]
-    }
   ],
   "references": [
   ],
   "projects": [
     {
-      "name": "Design of an ECG Monitor using analog electronic Components",
-      "summary": "Development of an ECG Monitor prototype for the analog project in EN2091",
-      "highlights": ["Analog circuit design", "Filter design", "Signal processing"],
-      "startDate": "2023",
-      "endDate": "2023",
-      "url": "https://devnithw.github.io/projects/ecg/"
+      "name": "Stable Diffusion Based Criminal Face Generation for Forensic Identification",
+      "summary": "This project aimed to develop a system for generating suspect face sketches based on textual descriptions using Stable Diffusion and other AI models, addressing limitations of traditional forensic face sketching methods.",
+      "highlights": [
+        "Combines multiple AI models for text-to-image generation",
+        "Utilizes LLMs for prompt generation, extracting key facial features",
+        "Image-to-image refiner allows for minor adjustments to generated sketches",
+        "Enhances forensic identification by generating realistic face sketches from textual descriptions"
+      ],
+      "startDate": "Feb-2024",
+      "endDate": "",
+      "url": null
+    },
+    {
+      "name": "Cell Anomaly Detection Using Adversarial Autoencoders",
+      "summary": "Developed an anomaly detection system for cell images using adversarial autoencoders, leveraging both KDE and reconstruction error metrics for robust anomaly detection, even in contaminated datasets.",
+      "highlights": [
+        "VGG16-based encoder-decoder architecture for image analysis",
+        "Employs Kernel Density Estimation (KDE) for enhanced anomaly detection",
+        "Implemented using TensorFlow for efficient model training and inference",
+        "Enables robust anomaly detection in cell images, potentially improving medical diagnostics"
+      ],
+      "startDate": "Mar-2024",
+      "endDate": "Mar-2024",
+      "url": null
+    },
+    {
+      "name": "Handwritten Digit Classification",
+      "summary": "Developed a Handwritten Digit Classification model using TensorFlow's Keras API, achieving high accuracy in classifying handwritten digits from the MNIST dataset.",
+      "highlights": [
+        "Built a neural network to classify handwritten digits from the MNIST dataset",
+        "Preprocessing image data and encoding categorical labels for model training",
+        "Evaluated model performance and visualized results for improved understanding",
+        "Provided hands-on experience in image classification and model evaluation using TensorFlow"
+      ],
+      "startDate": "Jan-2024",
+      "endDate": "Feb-2024",
+      "url": null
+    },
+    {
+      "name": "Five band Audio Equalizer",
+      "summary": "Developed a Five-Band Audio Equalizer using operational amplifier based active filters, enabling detailed audio customization across five frequency bands.",
+      "highlights": [
+        "Designed and built a fully functional audio equalizer using op-amp circuits",
+        "Implemented low-pass, high-pass, and band-pass filters for audio signal manipulation",
+        "Provides adjustable frequency bands for precise audio customization, including Low, Low Mid, Mid, High Mid, and High",
+        "Enhances hands-on electronics skills with practical application of analog circuit design"
+      ],
+      "startDate": "Aug-2023",
+      "endDate": "Dec-2023",
+      "url": null
+    },
+    {
+      "name": "Sparkle Robot",
+      "summary": "Developed a versatile robotic platform powered by Arduino Mega 2560, showcasing advanced functionalities and innovative sensor integrations.",
+      "highlights": [
+        "Implemented a range of functionalities using Arduino programming",
+        "Integrated various sensors for enhanced robot capabilities",
+        "Demonstrated problem-solving skills in robot design and development",
+        "Provided hands-on experience in robotics and microcontroller programming"
+      ],
+      "startDate": "Aug-2023",
+      "endDate": "Dec-2023",
+      "url": null
+    },
+    {
+      "name": "Automatic Ret retractable Clothesline System",
+      "summary": "Developed an Automatic Ret retractable Clothesline System (ARCS) incorporating Arduino technology, automated rain detection, and remote monitoring through Thingspeak.",
+      "highlights": [
+        "Combines Arduino technology with automation for smart clothes drying",
+        "Features an automated rain detection system for protecting garments",
+        "Utilizes Thingspeak integration for real-time remote monitoring and control",
+        "Offers an innovative solution for efficient and intelligent clothes drying"
+      ],
+      "startDate": "Feb-2023",
+      "endDate": "Jul-2023",
+      "url": null
     }
   ]
 }
