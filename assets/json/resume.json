@@ -224,6 +224,61 @@
     
   ],
   "skills": [
+    {
+      "name": "Machine learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Supervised Machine learning",
+        "Regression and classification",
+        "Unsupervised Machine learning",
+      ]
+    },
+    {
+      "name": "Deep learning",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "name": "Embedded Machine Learning",
+      "level": "Novice",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Nano 33 BLE Sense",
+        "edgeimpulse",
+        "TinyML",
+        "Raspberry Pi",
+        "Image processing",
+        "arduino"
+      ]
+    },
+    {
+      "name": "PCB Design",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Altium Designer",
+        "EasyEDA"
+      ]
+    },
+  ],
+  "languages": [
+    {
+      "language": "Sinhala",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
     
   ],
   "languages": [
