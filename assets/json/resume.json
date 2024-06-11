@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Chanupa Devnith Wijesinghe",
+    "name": "Januka Eshan Surendra",
     "label": "Engineering undergraduate",
     "image": "",
-    "email": "wijesinghecd.21@uom.lk",
+    "email": "surendrasaje.21@uom.lk",
     "phone": "",
-    "url": "https://devnith.github.io/",
-    "summary": "Second year Biomedical Engineering undergraduate at University of Moratuwa",
+    "url": "https://eshansurendra.github.io/",
+    "summary": "Third year Electronic and Telecommunication undergraduate at University of Moratuwa",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,20 +17,20 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "devnithw",
-        "url": "https://twitter.com/devnithw"
+        "username": "EshanSurendra",
+        "url": "https://twitter.com/EshanSurendra"
       }
     ]
   },
   "work": [
     {
-      "name": "Hyperworks LK",
-      "position": "Founding partner",
-      "url": "",
-      "startDate": "2022",
-      "endDate": "present",
-      "summary": "Graphic desginer and web developer",
-      "highlights": ["Graphic Design"]
+      "name": "SLRC branch - Electronic Club",
+      "position": "Committee Member",
+      "url": "https://ent.uom.lk/electronic-club-about/#SLRC-Branch",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Acted as chairperson for Sri Lankan Robotics Challenge 2024",
+      "highlights": []
     },
     {
       "organization": "Rotaract Club of Unviersity of Moratuwa",
