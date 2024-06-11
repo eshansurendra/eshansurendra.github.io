@@ -234,13 +234,7 @@
         "Unsupervised Machine learning",
       ]
     },
-    {
-      "name": "Deep learning",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-      ]
-    },
+    
     {
       "name": "Embedded Machine Learning",
       "level": "Novice",
