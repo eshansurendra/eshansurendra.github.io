@@ -71,10 +71,150 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Computer Vision",
+      "date": "May-2024",
+      "issuer": "Kaggle",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Intro to Machine Learning",
+      "date": "May-2024",
+      "issuer": "Kaggle",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+      "date": "May-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "date": "May-2024",
+      "issuer": "DeepLearning.AI",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+      "date": "May-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Generative AI: Introduction and Applications",
+      "date": "Feb-2024",
+      "issuer": "IBM",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Advanced Learning Algorithms",
+      "date": "Feb-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Basic Image Classification with TensorFlow",
+      "date": "Feb-2024",
+      "issuer": "Coursera Project Network",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Calculus for Machine Learning and Data Science",
+      "date": "Feb-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Facial Expression Recognition with Keras",
+      "date": "Feb-2024",
+      "issuer": "Coursera Project Network",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Introduction to Git and GitHub",
+      "date": "Feb-2024",
+      "issuer": "Google",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Linear Algebra for Machine Learning and Data Science",
+      "date": "Feb-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Microsoft Azure Machine Learning",
+      "date": "Feb-2024",
+      "issuer": "Microsoft",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Supervised Machine Learning: Regression and Classification",
+      "date": "Jan-2024",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Crash Course on Python",
+      "date": "Dec-2023",
+      "issuer": "Google",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "MATLAB Onramp",
+      "date": "Dec-2023",
+      "issuer": "MathWorks",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Object Localization with TensorFlow",
+      "date": "Dec-2023",
+      "issuer": "Coursera Project Network",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Introduction to Embedded Machine Learning",
+      "date": "Sep-2023",
+      "issuer": "Coursera",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Introduction to Robot Operating System",
+      "date": "Jan-2023",
+      "issuer": "Electronic Club UOM",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Python (Basic)",
+      "date": "Aug-2022",
+      "issuer": "HackerRank",
+      "url": null,
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Introduction to Programming Using Python",
+      "date": "May-2022",
+      "issuer": "University of Moratuwa",
+      "url": null,
       "icon": "fa-solid fa-location-dot"
     }
   ],
