@@ -264,7 +264,7 @@
         "Implemented using TensorFlow for efficient model training and inference",
         "Enables robust anomaly detection in cell images, potentially improving medical diagnostics"
       ],
-      "startDate": "Mar-2024",
+      "startDate": "",
       "endDate": "Mar-2024",
       "url": "https://github.com/eshansurendra/cell_anomaly_detection_using_autoencoders"
     },
@@ -278,7 +278,7 @@
         "Evaluated model performance and visualized results for improved understanding",
         "Provided hands-on experience in image classification and model evaluation using TensorFlow"
       ],
-      "startDate": "Jan-2024",
+      "startDate": "",
       "endDate": "Feb-2024",
       "url": "https://github.com/eshansurendra/handwritten-digit-classification"
     },
@@ -291,7 +291,7 @@
         "Provides adjustable frequency bands for precise audio customization, including Low, Low Mid, Mid, High Mid, and High",
         "Enhances hands-on electronics skills with practical application of analog circuit design"
       ],
-      "startDate": "Aug-2023",
+      "startDate": "",
       "endDate": "Dec-2023",
       "url": "https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER"
     },
@@ -305,7 +305,7 @@
         "Demonstrated problem-solving skills in robot design and development",
         "Provided hands-on experience in robotics and microcontroller programming"
       ],
-      "startDate": "Aug-2023",
+      "startDate": "",
       "endDate": "Dec-2023",
       "url": "https://github.com/eshansurendra/Sparkle-Robot"
     },
@@ -319,7 +319,7 @@
         "Utilizes Thingspeak integration for real-time remote monitoring and control",
         "Offers an innovative solution for efficient and intelligent clothes drying"
       ],
-      "startDate": "Feb-2023",
+      "startDate": "",
       "endDate": "Jul-2023",
       "url": "https://github.com/eshansurendra/Automatic-Retractable-Clothesline-System"
     }
