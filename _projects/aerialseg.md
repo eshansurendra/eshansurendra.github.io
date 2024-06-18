@@ -11,6 +11,7 @@ github: https://github.com/eshansurendra/AerialSeg-U-Net
 ---
 
 > For detailed documentation and source code, visit this [GitHub Repository](https://github.com/eshansurendra/AerialSeg-U-Net).
+
 > For a more comprehensive understanding of the implementation, refer this [notebook on Kaggle](https://www.kaggle.com/code/eshansurendra/semantic-segmentation-using-u-net/notebook#Semantic-segmentation-of-aerial-imagery-using-U-Net)
 
 The model is trained to recognize and classify the following classes:
