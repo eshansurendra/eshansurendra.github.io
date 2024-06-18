@@ -81,11 +81,8 @@ The enclosure design was developed using SolidWorks, focusing on aesthetics, fun
 ### Demo
 
 <div class="row">
-    <div class="col-sm-12">
-        <video width="100%" height="auto" controls>
-            <source src="assets/video/fiveband/clip.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/fiveband/clip.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
