@@ -40,8 +40,6 @@ The Five-Band Audio Equalizer project focuses on the development and implementat
 
 ### Circuit Design
 
-#### Equilizer Circuit
-
 ##### Schematic Diagram
 
 <div class="row">
