@@ -5,7 +5,7 @@ permalink: /projects/
 description: Discover a collection of software and hardware projects showcasing innovation and creativity.
 nav: true
 nav_order: 3
-display_categories: [software, hardware, other]
+display_categories: [software, hardware, robotics]
 horizontal: false
 ---
 
