@@ -6,7 +6,7 @@ img: assets/img/sparkle/thumb.png
 importance: 1
 category: robotics
 tags : ['robotics', 'competition', 'rc']
-github: https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER](https://github.com/eshansurendra/Sparkle-Robot
+github: https://github.com/eshansurendra/Sparkle-Robot
 ---
 
 > For detailed documentation and source code, visit my [GitHub Repository](https://github.com/eshansurendra/Sparkle-Robot).
