@@ -84,18 +84,18 @@ Here are examples of segmentation predictions made by the model on test images:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/handwritten/ex1.png" title="unet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aerialseg/ex1.png" title="ex1.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/handwritten/ex2.png" title="unet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aerialseg/ex2.png" title="ex2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/handwritten/ex3.png" title="unet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/aerialseg/ex3.png" title="ex3.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
