@@ -1,80 +1,91 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Five-Band Audio Equalizer
+description: Developed a fully functional audio equalizer using operational amplifier (op-amp) based active filters, enabling
+ the adjustment of gains across the low, mid, and high-frequency ranges.
+img: assets/img/fiveband/thumb.png
+importance: 1
+category: hardware
+tags : ['analog', 'filters', 'opamp']
+github: https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+> For detailed documentation and source code, visit my [GitHub Repository](https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The Five-Band Audio Equalizer project focuses on the development and implementation of a graphic equalization circuit that can manipulate audio signals across five specific frequency bands. Designed as part of the Laboratory Practice module in semester 3, this project aims to enhance hands-on skills in electronics by creating a fully functional audio equalizer using operational amplifier (op-amp) based active filters, enabling the adjustment of gains across the low, mid, and high-frequency ranges.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Features
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fiveband/overview.png" title="Overview Diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+- **Adjustable Frequency Bands**: Control over five specific frequency ranges for detailed audio customization.
+  - Low: 20-300Hz
+  - Low Mid: 300-1kHz
+  - Mid: 1kHz-4kHz
+  - High Mid: 4kHz-10kHz
+  - High: 10kHz-20kHz
+- **Active Filtering**: Utilization of low-pass, high-pass, and band-pass filters to isolate and adjust specific frequency bands.
+- **Op-Amp Circuits**: Employment of operational amplifiers for the filter circuits, ensuring high-quality signal processing.
+
+### Tools Used
+
+- **Circuit Design & Simulation**: Filter Pro for filter calculations and NI Multisim for circuit simulation.
+- **PCB Design**: Altium Designer for creating the printed circuit board layout.
+- **Enclosure Design**: SolidWorks for designing the custom enclosure.
+
+
+### Circuit Design
+
+#### Equilizer Circuit
+
+##### Schematic Diagram
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fiveband/EquilizerSchematicDiagram.png" title="Equilizer Schematic Diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+##### PCB 3D View
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fiveband/pcb_main_3D.png" title="Equilizer PCB 3D View" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+
+### Circuit Design
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fiveband/pcb_main_3D_2.png" title="Equilizer PCB 3D View" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Enclosure Design
 
-{% raw %}
+The enclosure design was developed using SolidWorks, focusing on aesthetics, functionality, and durability.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+#### Enclosure
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fiveband/enclousure_assembly_view.png" title="Enclosure Design" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+### Demo
+
+<div class="row">
+    <div class="col-sm-12">
+        <video width="100%" height="auto" controls>
+            <source src="assets/video/fiveband/clip.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
