@@ -1,80 +1,50 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Sparkle-Robot
+description: Sparkle Robot, a multi-functional robotic platform developed for the EN2533: Robot Design and Competition.  Sparkle demonstrates advanced robotic capabilities through a combination of hardware and software components, showcasing a blend of mechanical design, control algorithms, and sensory perception.
+img: assets/img/sparkle/thumb.png
+importance: 1
+category: robotics
+tags : ['robotics', 'competition', 'rc']
+github: [https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER](https://github.com/eshansurendra/Sparkle-Robot)
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+> For detailed documentation and source code, visit my [GitHub Repository](https://github.com/eshansurendra/Sparkle-Robot).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Features
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Sparkle Robot is built around the Arduino Mega 2560 microcontroller, serving as the central processing unit for its various functionalities. The robot features:
+
+* **Line Following & Obstacle Avoidance:** Implements a line-following algorithm using phototransistors and obstacle detection using ultrasonic sensors. This enables Sparkle to navigate pre-defined paths while avoiding collisions.
+* **Ramp Navigation & Box Dragging:** Utilizes a robust mechanical design with a geared motor system to enable Sparkle to ascend ramps and drag boxes.  
+* **Box Picking & Color Detection:** A custom SolidWorks-designed robotic arm powered by a servo motor allows for precise box picking. A color sensor integrated into the arm enables Sparkle to differentiate between different colored boxes.
+* **Maze Solving:** Employs a left-hand rule algorithm, guided by color sensing, to navigate mazes. Sparkle utilizes the box color to determine the correct path and destination within a maze environment.
+* **Sound Detection:**  Incorporates an audio sensor that allows Sparkle to detect and respond to specific sound cues, enabling dynamic interactions and programmed actions based on sound triggers. 
+
+### Demo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/sparkle/clip.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+### Team Collaboration
+
+This project was a collaborative effort, and the success of Sparkle Robot is a testament to the dedication and diverse skillsets of the team members:
+
+* **Eshan Surendra:** 
+* **Achira Hansindu:**
+* **Pulindu Vidmal:** 
+* **Navini Jagoda:**
+* **Akhila Prabodha:**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/sparkle/team.png" title="Team Memebers" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Each team member played a crucial role, bringing their unique expertise to the project, and their collaborative spirit was essential in overcoming challenges and achieving a successful outcome. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This project, showcasing the combined efforts of the team, serves as a valuable learning resource for anyone interested in exploring the field of robotics and building their own intelligent machines. 
