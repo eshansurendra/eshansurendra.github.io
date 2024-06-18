@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Sparkle-Robot
-description: Sparkle Robot, a multi-functional robotic platform developed for the EN2533: Robot Design and Competition.  Sparkle demonstrates advanced robotic capabilities through a combination of hardware and software components, showcasing a blend of mechanical design, control algorithms, and sensory perception.
-img: assets/img/sparkle/thumb.png
-importance: 1
-category: hardware
-tags : ['robotics', 'competition', 'rc']
-github: https://github.com/eshansurendra/Sparkle-Robot
+title: Cell Anomaly Detection Using Adversarial Autoencoders
+description: Developed an anomaly detection system for cell images using adversarial autoencoders, inspired by the paper "Robust Anomaly Detection in Images using Adversarial Autoencoders" by Laura Beggel, Michael Pfeiffer, and Bernd Bischl.
+img: assets/img/cell-anomaly/thumb.svg
+importance: 2
+category: software
+tags : ['deep learning', 'tensorflow', 'anomaly-detection']
+github: https://github.com/eshansurendra/cell_anomaly_detection_using_autoencoders
 ---
-
-
