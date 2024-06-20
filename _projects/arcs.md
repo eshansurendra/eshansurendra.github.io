@@ -2,7 +2,7 @@
 layout: page
 title: Automatic Retractable Clothesline System
 description: Arduino-based project designed to simplify the process of drying clothes outdoors. By incorporating various sensors and a stepper motor, the system can automatically retract the clothesline in response to rain or adverse weather conditions.
-img: assets/img/arcs/thumb.png
+img: assets/img/arcs/team.png
 importance: 1
 category: hardware
 tags : ['arcs', 'arduino', 'clothsline']
