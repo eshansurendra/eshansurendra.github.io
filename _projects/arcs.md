@@ -5,13 +5,13 @@ description: Arduino-based project designed to simplify the process of drying cl
 img: assets/img/arcs/team.png
 importance: 1
 category: hardware
-tags : ['arcs', 'arduino', 'clothsline']
+tags : ['arcs', 'arduino', 'clothsline', 'iot']
 github: https://github.com/eshansurendra/Automatic-Retractable-Clothesline-System
 ---
 
 > For detailed documentation and source code, visit my [GitHub Repository](https://github.com/eshansurendra/Automatic-Retractable-Clothesline-System).
 
-> Visit our [ElectroMavericks Systems](https://www.electromavericks.systems/) website for more details about the Automatic Retractable Clothesline System (ARCS).
+> Visit our [ElectroMavericks website](https://www.electromavericks.systems/) for more details about the `Automatic Retractable Clothesline System (ARCS)`.
 
 Automate and enhance your clothesline experience with this Arduino-based system. It automates the retraction process triggered by rain detection, protecting clothes during inclement weather. The system offers remote data monitoring via `Thingspeak` and convenient control through a `mobile app`.
 
