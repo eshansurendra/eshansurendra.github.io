@@ -3,7 +3,7 @@ layout: page
 title: UART-FPGA
 description: Developed as part of the EN2111 Electronic Circuit Design module at the University of Moratuwa, focusing on the implementation of a UART communication link between two FPGA boards. This project provides a practical understanding of UART communication protocols and their implementation within an FPGA environment.
 img: assets/img/uart/thumb.png
-importance: 2
+importance: 3
 category: hardware
 tags : ['uart', 'fpga', '7-segment']
 github: https://github.com/eshansurendra/UART-FPGA
