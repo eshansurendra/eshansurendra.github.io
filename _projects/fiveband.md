@@ -4,7 +4,7 @@ title: Five-Band Audio Equalizer
 description: Developed a fully functional audio equalizer using operational amplifier (op-amp) based active filters, enabling
  the adjustment of gains across the low, mid, and high-frequency ranges.
 img: assets/img/fiveband/thumb.png
-importance: 1
+importance: 2
 category: hardware
 tags : ['analog', 'filters', 'opamp']
 github: https://github.com/eshansurendra/FIVE-BAND-AUDIO-EQUALIZER
