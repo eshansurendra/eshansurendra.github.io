@@ -67,6 +67,13 @@ ARCS comes with a dedicated mobile app that allows you to control and monitor yo
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/arcs/pcb3d_.png" title="pcb3d" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 ### Enclosure Design
 
 <div class="row">
