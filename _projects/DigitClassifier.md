@@ -3,7 +3,7 @@ layout: page
 title: Handwritten Digit Classifier
 description: The Handwritten Digit Classifier is a machine learning project that utilizes TensorFlow to classify handwritten digit images from the MNIST dataset. This project demonstrates the complete workflow of image classification, from data preprocessing to model evaluation and visualization.
 img: assets/img/handwritten/handwritten_thumb.jpg
-importance: 3
+importance: 4
 category: software
 tags : ['Tensorflow', 'keras', 'MNIST', 'Machine learning']
 related_publications: false
