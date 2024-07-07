@@ -3,7 +3,7 @@ layout: page
 title: Semantic segmentation of aerial imagery using U-Net
 description: Implementation of a semantic segmentation model for aerial imagery using the U-Net architecture. The project aims to accurately segment various objects and features within aerial images, leveraging the powerful capabilities of the U-Net model.
 img: assets/img/aerialseg/thumb.png
-importance: 4
+importance: 3
 category: software
 tags : ['unet', 'sementic-segmentation', 'tensorflow']
 related_publications: false
