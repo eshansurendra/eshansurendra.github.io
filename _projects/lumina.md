@@ -29,20 +29,6 @@ Lumina is an advanced AI-powered adaptive learning platform revolutionizing educ
 * **Real-time Feedback:**  Students receive instant and personalized feedback on their progress, helping them identify areas for improvement and stay motivated.
 * **Performance Tracking:**  Lumina provides detailed performance analytics for both students and educators, enabling data-driven insights and informed decision-making.
 
-## Technology Stack
-
-**Front-end:**
-* React
-* JavaScript
-* CSS
-
-**Back-end:**
-* Django (Python)
-* PyTorch
-
-**Database:**
-* MongoDB
-
 ## Development Status
 
 Lumina is currently under active development. We are continuously working on enhancing its features, expanding its subject coverage, and improving the AI model's accuracy and personalization capabilities. 
