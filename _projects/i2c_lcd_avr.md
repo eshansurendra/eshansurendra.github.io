@@ -21,6 +21,15 @@ This repository provides an AVR implementation for interfacing with standard cha
 * **Easy Integration:** Provides a simple API for sending commands and data to the LCD.
 * **4-Bit Mode:** Supports the more efficient 4-bit communication mode for reduced pin usage.
 
+**Connections (ATMega328P Example):**
+
+   | I2C LCD | ATMega328P |
+   |---------|-------------|
+   | VCC     | 5V         |
+   | GND     | GND        |
+   | SCL     | SCL or A5   |
+   | SDA     | SDA or A4   |
+
 ### Key Functions
 
 *   **`lcd_command(uint8_t command)`**: Sends a command to the LCD module.
