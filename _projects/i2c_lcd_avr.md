@@ -13,7 +13,7 @@ github: https://github.com/eshansurendra/liquid_crystal_i2c_avr
 
 ### Project Overview
 
-This repository provides an AVR implementation for interfacing with standard character LCD displays (16x2 or 20x4) using the I2C communication protocol. The code is optimized for AVR microcontrollers, offering a lightweight and efficient way to control LCDs without relying on external libraries like the Arduino framework. By using I2C, you can significantly reduce the number of pins required for communication, simplifying wiring and freeing up valuable microcontroller resources.
+This project provides an AVR implementation for interfacing with standard character LCD displays (16x2 or 20x4) using the I2C communication protocol. The code is optimized for AVR microcontrollers, offering a lightweight and efficient way to control LCDs without relying on external libraries like the Arduino framework. By using I2C, you can significantly reduce the number of pins required for communication, simplifying wiring and freeing up valuable microcontroller resources.
 
 ### Features
 * **I2C Communication:** Uses the AVR's Two-Wire Interface (TWI) for communication with I2C-enabled LCD modules.
